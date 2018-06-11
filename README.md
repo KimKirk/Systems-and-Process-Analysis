@@ -2,7 +2,7 @@
 systems and process analysis for CI Division grantmaking system
 
 ## Overview
-Identifying systems issues that prohibit efficiency, encourage data silos, introduce unnecessary redundancy, and introduce errors, as part of division restructuring efforts. Systems and processes for the CI Division grantmaking system was analyzed to develop systems solutions to advance the work to improve business results. Top 5 solutions were presented in a systems and processes recommendations report.
+Identifying systems issues that prohibit efficiency, encourage data silos, introduce unnecessary redundancy, and introduce errors, as part of division restructuring efforts. Systems and processes for the CI Division grantmaking system were analyzed to develop systems solutions to advance the work to improve business results. Top 5 solutions were presented in a systems and processes recommendations report.
 
 ## Disclaimer:
 All data has been anonymized to observe privacy protocols.
