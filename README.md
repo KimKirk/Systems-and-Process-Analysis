@@ -11,3 +11,4 @@ All data has been anonymized to observe privacy protocols.
 ## Visit Link to View Report:
 
 - https://drive.google.com/file/d/1UVDKTozdP3RvWG6kdwR2wGmh1wFmaIwf/view?usp=sharing
+    - Please download if Google Drive does not stream a preview of the document to you.
